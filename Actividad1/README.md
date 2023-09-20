@@ -1,15 +1,18 @@
 # README Pau 
 
 ## Actividad1  
-![Captura de pantalla 2023-09-20 123955](https://github.com/pauramon/despliegue-de-aplicaciones-web-Pau/assets/144775374/8d4189bf-95fc-42d0-8fee-ed26129161ad)
+![Captura de pantalla 2023-09-20 123955](https://github.com/pauramon/despliegue-de-aplicaciones-web-Pau/assets/144775374/1f88cac5-58d2-49ff-983e-abebd8ac9a26)
+
 
 
 ## Actividad2  
-![Captura de pantalla 2023-09-20 124109](https://github.com/pauramon/despliegue-de-aplicaciones-web-Pau/assets/144775374/1628827f-2a8b-48b1-a9e9-cfe94a96275c)
+![Captura de pantalla 2023-09-20 124109](https://github.com/pauramon/despliegue-de-aplicaciones-web-Pau/assets/144775374/9082083b-b929-41a1-abe4-09b4dfab1d6d)
+
 
 
 ## Actividad3  
-![img1](https://github.com/pauramon/despliegue-de-aplicaciones-web-Pau/assets/144775374/60a24fd5-8f0b-4789-8558-d2bebf960f68)
+![img1](https://github.com/pauramon/despliegue-de-aplicaciones-web-Pau/assets/144775374/21236be3-eeb2-434f-9647-b70af640ff1f)
+
 
 
 ## Actividad4  
@@ -28,5 +31,6 @@ El código de estado HTTP 302 Found indica que el recurso solicitado se ha movid
 
 -Poniendo ping google.com en cmd sale esta linea: "Haciendo ping a google.com [142.250.184.14] con 32 bytes de datos:"
 Y usando la IP en tu navegador te redireje a google.com  
- ![Captura de pantalla 2023-09-20 131834](https://github.com/pauramon/despliegue-de-aplicaciones-web-Pau/assets/144775374/b5a2ad9c-27cf-43e5-99d7-f8d9839bd82c)
+![Captura de pantalla 2023-09-20 131834](https://github.com/pauramon/despliegue-de-aplicaciones-web-Pau/assets/144775374/5313245e-d917-4d41-9e6c-f14069988a70)
+
 
