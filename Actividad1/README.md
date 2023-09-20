@@ -13,6 +13,11 @@
 
 
 #Actividad4
-
+-¿A qué puerto se reciben normalmente las peticiones del protocolo HTTP?
+El puerto por defecto para las peticiones HTTP es el puerto 80. 
+-¿A qué capa del modelo TCP/IP se encuentra el protocolo HTTP?
+El protocolo HTTP se encuentra en la capa de aplicación del modelo TCP/IP.
+-¿Y los protocolos TCP, UDP, e IP?
+El protocolo IP se encuentra en la capa de Internet o capa de red, que acepta y transfiere paquetes para la red. Por otro lado, los protocolos TCP y UDP se encuentran en la capa de transporte.
 
 #Actividad5
