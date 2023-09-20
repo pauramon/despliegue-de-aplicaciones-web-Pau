@@ -23,3 +23,9 @@ El protocolo IP se encuentra en la capa de Internet o capa de red, que acepta y 
 ## Actividad5
 
 El código de estado HTTP 302 Found indica que el recurso solicitado se ha movido temporalmente a una nueva ubicación y que el sistema redirige automáticamente a los visitantes a una nueva URL que tiene el recurso  
+
+## Actividad6  
+
+-Poniendo ping google.com en cmd sale esta linea: "Haciendo ping a google.com [142.250.184.14] con 32 bytes de datos:"
+Y usando la IP en tu navegador te redireje a google.com  
+![Captura de pantalla 2023-09-20 131834](https://github.com/pauramon/despliegue-de-aplicaciones-web-Pau/assets/144775374/4bacd92d-59fe-45f7-8784-2aac25d9590c)  
