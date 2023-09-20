@@ -12,7 +12,7 @@
 ![img1](https://github.com/pauramon/despliegue-de-aplicaciones-web-Pau/assets/144775374/60a24fd5-8f0b-4789-8558-d2bebf960f68)
 
 
-#Actividad4
+#Actividad4  
 -¿A qué puerto se reciben normalmente las peticiones del protocolo HTTP?  
 El puerto por defecto para las peticiones HTTP es el puerto 80.   
 -¿A qué capa del modelo TCP/IP se encuentra el protocolo HTTP?  
