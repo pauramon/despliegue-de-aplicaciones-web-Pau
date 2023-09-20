@@ -28,4 +28,5 @@ El código de estado HTTP 302 Found indica que el recurso solicitado se ha movid
 
 -Poniendo ping google.com en cmd sale esta linea: "Haciendo ping a google.com [142.250.184.14] con 32 bytes de datos:"
 Y usando la IP en tu navegador te redireje a google.com  
-![Captura de pantalla 2023-09-20 131834](https://github.com/pauramon/despliegue-de-aplicaciones-web-Pau/assets/144775374/4bacd92d-59fe-45f7-8784-2aac25d9590c)  
+ ![Captura de pantalla 2023-09-20 131834](https://github.com/pauramon/despliegue-de-aplicaciones-web-Pau/assets/144775374/b5a2ad9c-27cf-43e5-99d7-f8d9839bd82c)
+
